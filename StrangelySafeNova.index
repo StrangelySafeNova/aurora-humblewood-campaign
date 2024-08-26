@@ -7,7 +7,7 @@
 		</update>
 	</info>
 	<files>
-		<file name="reace-hedge.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/races/race-hedge.xml" />
-		<file name="languages.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/languages.xml" />
+		<file name="race-hedge.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/races/race-hedge.xml" />
+		<file name="languages.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/languages.xml" />
 	</files>
 </index>
