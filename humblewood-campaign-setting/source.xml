@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.1">
+			<file name="source.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/source.xml" />
+		</update>
+	</info>
+	<element name="Humblewood Campaign Setting" type="Source" source="Core" id="ID_HWCS_SOURCE_HUMBLEWOOD_CAMPAIGN_SETTING">
+		<description>
+			<![CDATA[<p><strong>In the world of Everden lies a mystical forest known as Humblewood. The fires have come, and Humblewood has been thrown into chaos.</strong></p><p>In this exciting campaign setting for fifth edition D&D, you and your party take on the role of forest creatures like birds, raccoons, mice, and hedgehogs in order to save your home from a fiery threat.</p>]]>
+		</description>
+		<setters>
+			<set name="abbreviation">HWCS</set>
+			<set name="url">https://humblewood.com/</set>
+		</setters>
+	</element>
+</elements>
