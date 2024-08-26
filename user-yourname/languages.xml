@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Languages</name>
+		<update version="0.0.1">
+			<file name="languages.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/languages.xml" />
+		</update>
+	</info>
+
+	<!-- standard -->
+	<element name="Birdfolk" type="Language" source="Humblewood campaign settings" id="ID_HFCS_LANGUAGE_BIRDFOLK">
+		<supports>Standard</supports>
+		<description>
+			<p>Typically spoken by Birdfolks.</p>
+		</description>
+		<setters>
+			<set name="standard">true</set>
+			<set name="speakers">Birdfolks</set>
+			<set name="script">Birdfolk</set>
+		</setters>
+	</element>
+    <element name="Hedge" type="Language" source="Humblewood campaign settings" id="ID_HFCS_LANGUAGE_HEDGE">
+		<supports>Standard</supports>
+		<description>
+			<p>Typically spoken by Hedges.</p>
+		</description>
+		<setters>
+			<set name="standard">true</set>
+			<set name="speakers">Hedges</set>
+			<set name="script">Hedge</set>
+		</setters>
+	</element>	
+</elements>

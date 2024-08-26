@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>Your Content</name>
+		<update version="1.0.0">
+			<file name="StrangelySafeNova.index" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/StrangelySafeNova.index" />
+		</update>
+	</info>
+	<files>
+		<file name="reace-hedge.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/races/race-hedge.xml" />
+		<file name="languages.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/languages.xml" />
+	</files>
+</index>

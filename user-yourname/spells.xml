@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Spells</name>
+		<update version="0.0.3">
+			<file name="spells.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/volos-guide-to-monsters/spells.xml" />
+		</update>
+	</info>
+
+    <element name="Druidcraft" type="Spell" source="Player’s Handbook" id="ID_PHB_SPELL_DRUIDCRAFT">
+        <supports>Druid</supports>
+        <description>
+            <p>Whispering to the spirits of nature, you create one of the following effects within range:</p>
+            <ul>
+                <li>You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.</li>
+                <li>You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.</li>
+                <li>You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.</li>
+            <li>You instantly light or snuff out a candle, a torch, or a small campfire.</li>
+            </ul>
+        </description>
+        <setters>
+        <set name="keywords"></set>
+        <set name="level">0</set>
+        <set name="school">Transmutation</set>
+        <set name="time">1 action</set>
+        <set name="duration">Instantaneous</set>
+        <set name="range">30 feet</set>
+        <set name="hasVerbalComponent">true</set>
+        <set name="hasSomaticComponent">true</set>
+        <set name="hasMaterialComponent">false</set>
+        <set name="materialComponent" />
+        <set name="isConcentration">false</set>
+        <set name="isRitual">false</set>
+        </setters>
+    </element>
+</elements>
