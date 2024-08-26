@@ -92,7 +92,7 @@
 		</rules>
 	</element>
 
-	<element name="Curl Up" type="Racial Trait" source="Humblewood campaign settings" id="ID_HFCS_RACIAL_TRAIT_CURL UP">
+	<element name="Curl Up" type="Racial Trait" source="Humblewood campaign settings" id="ID_HFCS_RACIAL_TRAIT_CURL_UP">
 		<description>
 			<p>You can use your action to curl up, exposing attackers to a wall of your toughened quills. While curled up you cannot move, attack, or cast spells with somatic components, and your base armor class becomes 19. You cannot benefit from any Dexterity bonus to armor class while curled up, but you can still use shields.</p>
 			<p class='indent'>Any creature that misses you with a melee attack while you are curled up takes 2d4 points of piercing damage from your sharp quills. If a creature hits you while you are curled up, you are knocked prone in your space at the end of the turn. You may uncurl yourself at any point during your turn.</p>
