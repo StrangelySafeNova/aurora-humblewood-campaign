@@ -10,6 +10,7 @@
 		<file name="source.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/source.xml" />
 		
 		<file name="race-hedge.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/races/race-hedge.xml" />
+		<file name="race-jerbeen.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/races/race-jerbeen.xml" />
 		<file name="languages.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/languages.xml" />
 	</files>
 </index>
