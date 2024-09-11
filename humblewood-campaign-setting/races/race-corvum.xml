@@ -99,7 +99,7 @@
 		</description>
 		<sheet display="false" />
 		<rules>
-			<select type="Sub Race" name="Corvum Subrace" supports="Corvum">
+			<select type="Sub Race" name="Corvum Subrace" supports="Corvum" />
 		</rules>
 	</element>
 
@@ -161,7 +161,7 @@
 			</description>
 		</sheet>
 		<rules>
-			<select type="Proficiency" name="Proficiency (Convincing)" supports="ID_PROFICIENCY_SKILL_DECEPTION|ID_PROFICIENCY_SKILL_PERSUASION">
+			<select type="Proficiency" name="Proficiency (Convincing)" supports="ID_PROFICIENCY_SKILL_DECEPTION|ID_PROFICIENCY_SKILL_PERSUASION" />
 		</rules>
 	</element>
 	
