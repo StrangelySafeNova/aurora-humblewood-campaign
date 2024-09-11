@@ -53,7 +53,7 @@
 	</element>
 
 	<!-- racial traits -->
-	<element name="Standing Leap" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_STANDINF_LEAP">
+	<element name="Standing Leap" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_STANDING_LEAP">
 		<description>
 			<p>Your base long jump is 30 feet, and your base high jump is 15 feet, with or without a running start.</p>
 		</description>
