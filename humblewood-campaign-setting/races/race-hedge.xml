@@ -40,13 +40,8 @@
 
 		<!-- general info -->
 		<setters>
-			<set name="names" type="male">Cologne, Marco, Thierry, John</set>
-			<set name="names" type="female">Pita, Anetta, Antoinette, Brigitte</set>
-			<set name="names" type="child">Bep, Bop, Peppy</set>
-			<set name="names" type="family">Hérisson</set>
-			<set name="names-format">{{name}} {{family}}</set>
-			<set name="height" modifier="1d10">3'0"</set>
-			<set name="weight" modifier="3d10">40 lb.</set>
+			<set name="height" modifier="2d6">2'11"</set>
+			<set name="weight" modifier="1d4">30 lb.</set>
 		</setters>
 
 

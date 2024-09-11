@@ -32,9 +32,8 @@
 
 		<!-- general info -->
 		<setters>
-			<set name="names-format">{{name}} {{family}}</set>
-			<set name="height" modifier="1d12">2'0"</set>
-			<set name="weight" modifier="2d12">18 lb.</set>
+			<set name="height" modifier="2d4">2'4"</set>
+			<set name="weight" modifier="1d2">20 lb.</set>
 		</setters>
 
 		<!-- starting abilities -->

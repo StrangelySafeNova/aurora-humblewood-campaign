@@ -34,9 +34,8 @@
 		
 		<!-- general info -->
 		<setters>
-			<set name="names-format">{{name}} {{family}}</set>
-			<set name="weight" modifier="4d10">100 lb.</set>
-			<set name="height" modifier="1d12">4'5"</set>
+			<set name="weight" modifier="1d4">70 lb.</set>
+			<set name="height" modifier="2d10">4'4"</set>
 		</setters>
 
 
