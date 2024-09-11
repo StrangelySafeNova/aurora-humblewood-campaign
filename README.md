@@ -5,17 +5,24 @@ index url: https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood
 
 ---
 
-Slowly adding every bit of content of humblewood in aurora
+Slowly adding every bit of content of humblewood in aurora  
 
-Not professionnal
+Not professionnal  
 
 
-If, for any legal reason, you wish for me to remove such content, please contact me, I'll delete everything as soon as I confirm your authority on the subject# aurora-humblewood-campaign
+If, for any legal reason, you wish for me to remove such content, please contact me, I'll delete everything as soon as I confirm your authority on the subject# aurora-humblewood-campaign  
+
+
+
+In progress:  
+- Races:  
+ - Strig  
 
 Done;  
 - Races:  
  - Hedge  
  - Jerbeen  
+ - Corvum  
 - Racial traits:
  - Natural Burrowers  
  - Spiny Quills  
@@ -26,11 +33,11 @@ Done;
  - Nimbleness  
  - Take Heart  
  - Team Tactics  
+ - Glide  
+ - Talons  
+ - Learned  
+ - Appraising Eye  
 - Languages:  
  - Birdfolk  
  - Hedge  
  - Jerbeen  
-
-In progress:  
-- Races:  
- - Corvum  
