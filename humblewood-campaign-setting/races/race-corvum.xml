@@ -134,7 +134,7 @@
 		</description>
 		<sheet display="false" />
 		<rules>
-			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_INSIGHT">
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_INSIGHT" />
 		</rules>
 	</element>
 	<!-- Kindled Corvum -->
