@@ -12,18 +12,24 @@ Not professionnal
 
 If, for any legal reason, you wish for me to remove such content, please contact me, I'll delete everything as soon as I confirm your authority on the subject# aurora-humblewood-campaign  
 
-------
+---
+---
 
 In progress:  
+
 Races:  
 - Strig  
 
--------  
+---
+---  
+
 Done;  
+
 Races:  
 - Hedge  
 - Jerbeen  
 - Corvum  
+
 Racial traits:
 - Natural Burrowers  
 - Spiny Quills  
@@ -38,6 +44,7 @@ Racial traits:
 - Talons  
 - Learned  
 - Appraising Eye  
+
 Languages:  
 - Birdfolk  
 - Hedge  
