@@ -169,7 +169,8 @@
 			<p>You learn one additional language of your choice, gain proficiency in a tool of your choice, and are able to accurately recall with perfect clarity anything you have seen or heard within the past month.</p>
 		</description>
 		<sheet>
-			<description>You are able to accurately recall with perfect clarity anything you have seen or heard within the past month.</sheet>
+			<description>You are able to accurately recall with perfect clarity anything you have seen or heard within the past month.</description>
+		</sheet>
 		<select type="Proficiency" name="Tool Proficiency (Sharp Mind)" supports="Tool" />
 		<select type="Language" name="Language (Sharp Mind)" supports="Standard||Exotic" />
 	</element>
