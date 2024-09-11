@@ -150,7 +150,7 @@
 		</description>
 		<sheet display="false" />
 		<rules>
-			<set name="charisma" value="1" />
+			<stat name="charisma" value="1" />
 			<grant type="Racial Trait" id="ID_HWCS_RACIAL_TRAIT_CONVINCING" />
 			<grant type="Racial Trait" id="ID_HWCS_RACIAL_TRAIT_SHARP_MIND" />
 		</rules>
