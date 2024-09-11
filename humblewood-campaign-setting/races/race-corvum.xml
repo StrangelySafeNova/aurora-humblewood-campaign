@@ -78,7 +78,7 @@
 		<description>
 			<p> You gain proficiency in one of the following skills: Arcana, History, Nature, or Religion.</p>
 		</description>
-		<sheet display="false">
+		<sheet display="false" />
 		<rules>
 			<select type="Proficiency" name="Corvum learned skill preficiency" supports="ID_PROFICIENCY_SKILL_ARCANA|ID_SKILL_PROFICIENCY_SKILL_HISTORY|ID_PROFICIENCY_SKILL_NATURE|ID_PROFICIENCY_SKILL_RELIGION" />
 		</rules>
@@ -97,7 +97,7 @@
 		<description>
 			<p> There are two main subraces of corvum: dusk and kindled. Choose one of these subraces.</p>
 		</description>
-		<sheet display="false">
+		<sheet display="false" />
 		<rules>
 			<select type="Sub Race" name="Corvum Subrace" supports="Corvum">
 		</rules>
@@ -111,7 +111,7 @@
 		<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Dexterity score increases by 1.</p>
 		<p class="indent"><strong><em>Skulker.</em></strong> You have advantage on Dexterity (Stealth) checks made in dim light or darkness.</p>
 		<p class="indent"><strong><em>Street Smarts.</em></strong> You gain proficiency in the Insight skill.</p>
-		<sheet display="false">
+		<sheet display="false" />
 		<rules>
 			<stat name="dexterity" value="1" />
 			<grant type="Racial Trait" id="ID_HWCS_RACIAL_TRAIT_SKULKER" />
@@ -144,7 +144,7 @@
 		<p class="indent"><strong><em>Ability Score Increase.</em></strong>Your Charisma score increases by 1.</p>
 		<p class="indent"><strong><em>Convincing.</em></strong>Kindled corvums have a way with words, and are accomplished at saying what someone wants or needs to hear. You have proficiency in either the Deception or Persuasion skill. Additionally, you have advantage on all Charisma checks made to convince someone of your exceptional knowledge on any topic related to the skill you selected with your learned trait (Arcana, History, Nature, or Religion).</p>
 		<p class="indent"><strong><em>Sharp Mind.</em></strong>You learn one additional language of your choice, gain proficiency in a tool of your choice, and are able to accurately recall with perfect clarity anything you have seen or heard within the past month.</p>
-		<sheet display="false">
+		<sheet display="false" />
 		<rules>
 			<set name="charisma" value="1" />
 			<grant type="Racial Trait" id="ID_HWCS_RACIAL_TRAIT_CONVINCING" />
