@@ -7,7 +7,7 @@
 		</update>
 	</info>
 
-	<element name="Jerbeen" type="Race" source="Humblewood campaign settings" id="ID_HFCS_RACE_JERBEEN">
+	<element name="Jerbeen" type="Race" source="Humblewood campaign settings" id="ID_HWCS_RACE_JERBEEN">
 		<!-- class dexcription when selecting it -->
 		<description>
 			<p class="flavor">Jerbeens are small mouse-like folk with long, furred tails that help them balance. In proportion to the rest of their body, a jerbeen’s legs are long and powerful. Jerbeens can be found in a variety of places across the Wood, usually forming their own communities within birdfolk perches and humblefolk villages. Seldom do they live alone. A jerbeen’s home can contain several generations, including extended family and cousins living together under one roof. Jerbeens have a strong sense of family and like to surround themselves with good company wherever they rest.</p>
@@ -43,17 +43,17 @@
 			<stat name="charisma" value="1" />
 			<stat name="innate speed" value="30" bonus="base" />
 			<grant type="Size" id="ID_SIZE_SMALL" />
-			<grant type="Language" id="ID_HFCS_LANGUAGE_BIRDFOLK" />
-			<grant type="Language" id="ID_HFCS_LANGUAGE_JERBEEN" />
-			<grant type="Racial Trait" id="ID_HFCS_RACIAL_TRAIT_STANDING_LEAP" />
-			<grant type="Racial Trait" id="ID_HFCS_RACIAL_TRAIT_NIMBLENESS" />
-			<grant type="Racial Trait" id="ID_HFCS_RACIAL_TRAIT_TAKE_HEART" />
-			<grant type="Racial Trait" id="ID_HFCS_RACIAL_TRAIT_TEAM_TACTICS" />
+			<grant type="Language" id="ID_HWCS_LANGUAGE_BIRDFOLK" />
+			<grant type="Language" id="ID_HWCS_LANGUAGE_JERBEEN" />
+			<grant type="Racial Trait" id="ID_HWCS_RACIAL_TRAIT_STANDING_LEAP" />
+			<grant type="Racial Trait" id="ID_HWCS_RACIAL_TRAIT_NIMBLENESS" />
+			<grant type="Racial Trait" id="ID_HWCS_RACIAL_TRAIT_TAKE_HEART" />
+			<grant type="Racial Trait" id="ID_HWCS_RACIAL_TRAIT_TEAM_TACTICS" />
 		</rules>
 	</element>
 
 	<!-- racial traits -->
-	<element name="Standing Leap" type="Racial Trait" source="Humblewood campaign settings" id="ID_HFCS_RACIAL_TRAIT_STANDINF_LEAP">
+	<element name="Standing Leap" type="Racial Trait" source="Humblewood campaign settings" id="ID_HWCS_RACIAL_TRAIT_STANDINF_LEAP">
 		<description>
 			<p>Your base long jump is 30 feet, and your base high jump is 15 feet, with or without a running start.</p>
 		</description>
@@ -62,7 +62,7 @@
 		</sheet>
 	</element>
 
-	<element name="Nimbleness" type="Racial Trait" source="Humblewood campaign settings" id="ID_HFCS_RACIAL_TRAIT_NIMBLENESS">
+	<element name="Nimbleness" type="Racial Trait" source="Humblewood campaign settings" id="ID_HWCS_RACIAL_TRAIT_NIMBLENESS">
 		<description>
 			<p>You can move through the space of any creature that is of a size larger than yours.</p>
 		</description>
@@ -71,7 +71,7 @@
 		</sheet>
 	</element>
 
-	<element name="Take Heart" type="Racial Trait" source="Humblewood campaign settings" id="ID_HFCS_RACIAL_TRAIT_TAKE_HEART">
+	<element name="Take Heart" type="Racial Trait" source="Humblewood campaign settings" id="ID_HWCS_RACIAL_TRAIT_TAKE_HEART">
 		<description>
 			<p>You have advantage on Strength saving throws and saving throws against being frightened as long as you are within 5 feet of an ally who isn’t frightened or incapacitated that you can both see and hear.</p>
 		</description>
@@ -80,7 +80,7 @@
 		</sheet>
 	</element>
 
-	<element name="Team Tactics" type="Racial Traits" source="Humblewood campaign settings" id="ID_HFCS_RACIAL_TRAIT_TEAM_TACTICS">
+	<element name="Team Tactics" type="Racial Traits" source="Humblewood campaign settings" id="ID_HWCS_RACIAL_TRAIT_TEAM_TACTICS">
 		<description>
 			<p>You can use the Help action as a bonus action.</p>
 		</description>
