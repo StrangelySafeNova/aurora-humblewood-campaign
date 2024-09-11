@@ -164,7 +164,7 @@
 		</rules>
 	</element>
 	
-	<element name-"Sharp Mind" type="Racial Trait" source="Humblewood campaign settings" id="ID_HWCS_RACIAL_TRAIT_SHARP_MIND">
+	<element name="Sharp Mind" type="Racial Trait" source="Humblewood campaign settings" id="ID_HWCS_RACIAL_TRAIT_SHARP_MIND">
 		<description>
 			<p>You learn one additional language of your choice, gain proficiency in a tool of your choice, and are able to accurately recall with perfect clarity anything you have seen or heard within the past month.</p>
 		</description>
