@@ -12,6 +12,7 @@
 		<setters>
 			<set name="abbreviation">HWCS</set>
 			<set name="url">https://humblewood.com/</set>
+			<set name="author" abbreviation="HWCS" url="https://humblewood.com/">Humblewood</set>
 		</setters>
 	</element>
 </elements>

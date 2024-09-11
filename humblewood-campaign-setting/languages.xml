@@ -8,7 +8,7 @@
 	</info>
 
 	<!-- standard -->
-	<element name="Birdfolk" type="Language" source="Humblewood campaign settings" id="ID_HWCS_LANGUAGE_BIRDFOLK">
+	<element name="Birdfolk" type="Language" source="Humblewood Campaign Setting" id="ID_HWCS_LANGUAGE_BIRDFOLK">
 		<supports>Standard</supports>
 		<description>
 			<p>Typically spoken by Birdfolks.</p>
@@ -19,7 +19,7 @@
 			<set name="script">Birdfolk</set>
 		</setters>
 	</element>
-    <element name="Hedge" type="Language" source="Humblewood campaign settings" id="ID_HWCS_LANGUAGE_HEDGE">
+    <element name="Hedge" type="Language" source="Humblewood Campaign Setting" id="ID_HWCS_LANGUAGE_HEDGE">
 		<supports>Standard</supports>
 		<description>
 			<p>Typically spoken by Hedges.</p>
@@ -30,7 +30,7 @@
 			<set name="script">Hedge</set>
 		</setters>
 	</element>	
-    <element name="Jerbeen" type="Language" source="Humblewood campaign settings" id="ID_HWCS_LANGUAGE_JERBEEN">
+    <element name="Jerbeen" type="Language" source="Humblewood Campaign Setting" id="ID_HWCS_LANGUAGE_JERBEEN">
 		<supports>Standard</supports>
 		<description>
 			<p>Typically spoken by Jerbeens.</p>

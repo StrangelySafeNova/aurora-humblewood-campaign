@@ -7,7 +7,7 @@
 		</update>
 	</info>
 
-	<element name="Corvum" type="Race" source="Humblewood campaign settings" id="ID_HWCS_RACE_CORVUM">
+	<element name="Corvum" type="Race" source="Humblewood Campaign Setting" id="ID_HWCS_RACE_CORVUM">
 		
 		<!-- class description when selecting it -->
 		<description>
@@ -45,7 +45,7 @@
 			<stat name="intelligence" value="2" />
 			<stat name="innate speed" value="30" />
 			<grant type="Size" id="ID_SIZE_MEDIUM" />
-			<grant type="Language" id="ID_HWCS_LANGUAGE_BIRDFOLD" />
+			<grant type="Language" id="ID_HWCS_LANGUAGE_BIRDFOLK" />
 			<grant type="Language" id="ID_MM_LANGUAGE_AURAN" />
 			<grant type="Racial Trait" id="ID_HWCS_RACIAL_TRAIT_GLIDE" />
 			<grant type="Racial Trait" id="ID_HWCS_RACIAL_TRAIT_TALONS" />
@@ -56,7 +56,7 @@
 	</element>
 	
 	<!-- skills -->
-	<element name="Glide" type="Racial Trait" source="Humblewood campaign settings" id="ID_HWCS_RACIAL_TRAIT_GLIDE">
+	<element name="Glide" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_GLIDE">
 		<description>
 			<p> Using your feathered arms, you can slow your fall, and glide short distances. When falling you can use your reaction to spread your arms, stiffen your wing feathers, and slow your descent. While doing so, you continue to fall gently at a speed of 60 feet per round, taking no fall damage when you land. If you would fall at least 10 feet in this way, you may fly up to your movement speed in one direction you choose, although you cannot choose to move upwards, landing in the space you finish your movement. You cannot glide while carrying heavy weapons or wielding a shield (though you may drop any held items as part of your reaction to spread your arms). You cannot glide while wearing heavy armor, or if you are encumbered.</p>
 		</description>
@@ -65,7 +65,7 @@
 		</sheet>
 	</element>
 	
-	<element name="Talons" type="Racial Trait" source="Humblewood campaign settings" id="ID_HWCS_RACIAL_TRAIT_TALONS">
+	<element name="Talons" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_TALONS">
 		<description>
 			<p> Your sharp claws aid you in unarmed combat and while climbing. Your damage for an unarmed strike is 1d4 piercing damage. Additionally, you have advantage on Strength (Athletics) checks made to climb any surface your talons could reasonably grip.</p>
 		</description>
@@ -74,7 +74,7 @@
 		</sheet>
 	</element>
 	
-	<element name="Learned" type="Racial Traits" source="Humblewood campaign settings" id="ID_HWCS_RACIAL_TRAIT_LEARNED">
+	<element name="Learned" type="Racial Traits" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_LEARNED">
 		<description>
 			<p> You gain proficiency in one of the following skills: Arcana, History, Nature, or Religion.</p>
 		</description>
@@ -84,7 +84,7 @@
 		</rules>
 	</element>
 	
-	<element name="Appraising Eye" type="Racial Trait" source="Humblewood campaign settings" id="ID_HWCS_RACIAL_TRAIT_APPRAISING_EYE">
+	<element name="Appraising Eye" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_APPRAISING_EYE">
 		<description>
 			<p> You have an almost supernatural ability to appraise objects. By spending an action examining any object, you can determine any magical properties the item has, how they might be used or activated, as well as a fair estimation of market price. Using this skill strains the eyes, and you must complete a long or short rest before you can use it again.</p>
 		</description>
@@ -93,7 +93,7 @@
 		</sheet>
 	</element>
 	
-	<element name="Corvum Subrace" type="Racial Trait" source="humblewood campaign settings" id="ID_HWCS_RACIAL_TRAIT_CORVUM_SUBRACE">
+	<element name="Corvum Subrace" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_CORVUM_SUBRACE">
 		<description>
 			<p> There are two main subraces of corvum: dusk and kindled. Choose one of these subraces.</p>
 		</description>
@@ -105,7 +105,7 @@
 
 	<!--       subraces      -->
 	<!-- Dusk Corvum -->
-	<element name="Dusk Corvum" type="Sub Race" source="Humblewood campaing settings" id="ID_HWCS_SUB_RACE_DUSK_CORVUM">
+	<element name="Dusk Corvum" type="Sub Race" source="Humblewood Campaign Setting" id="ID_HWCS_SUB_RACE_DUSK_CORVUM">
 		<supports>Corvum</supports>
 		<description>
 			<p>As a dusk corvum, you are more at home in the bustle of society than in the wilds of the forest. You understand subtle social cues the way a hunter understands their prey, and you’re just as quick to capitalize on an advantage.</p>
@@ -121,7 +121,7 @@
 		</rules>
 	</element>
 	
-	<element name="Skulker" type="Racial Trait" source="Humblewood campaign settings" id="ID_HWCS_RACIAL_TRAIT_SKULKER">
+	<element name="Skulker" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_SKULKER">
 		<description>
 			<p>You have advantage on Dexterity (Stealth) checks made in dim light or darkness.</p>
 		</description>
@@ -130,7 +130,7 @@
 		</sheet>
 	</element>
 
-	<element name="Street Smart" type="Racial Trait" source="Humblewood campaign settings" id="ID_HWCS_RACIAL_TRAIT_STREET_SMART">
+	<element name="Street Smart" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_STREET_SMART">
 		<description>
 			<p>You gain proficiency in the Insight skill.</p>
 		</description>
@@ -140,7 +140,7 @@
 		</rules>
 	</element>
 	<!-- Kindled Corvum -->
-	<element name="Kindled Corvum" type="Sub Race" source="Humblewwod campaign settings" id="ID_HWCS_SUB_RACE_KINDLED_CORVUM">
+	<element name="Kindled Corvum" type="Sub Race" source="Humblewood Campaign Setting" id="ID_HWCS_SUB_RACE_KINDLED_CORVUM">
 		<supports>Corvum</supports>
 		<description>
 			<p>As a kindled corvum, you know implicitly that you are the smartest in the room. Your ability to utilize your knowledge to your advantage, along with your deep understanding of others motivations, makes you a formidable opponent.</p>
@@ -156,7 +156,7 @@
 		</rules>
 	</element>
 	
-	<element name="Convincing" type="Racial Trait" source="Humblewwod campaign settings" id="ID_HWCS_RACIAL_TRAIT_CONVINCING">
+	<element name="Convincing" type="Racial Trait" source="Humblewood Campaign Settings" id="ID_HWCS_RACIAL_TRAIT_CONVINCING">
 		<description>
 			<p>Kindled corvums have a way with words, and are accomplished at saying what someone wants or needs to hear. You have proficiency in either the Deception or Persuasion skill. Additionally, you have advantage on all Charisma checks made to convince someone of your exceptional knowledge on any topic related to the skill you selected with your learned trait (Arcana, History, Nature, or Religion).</p>
 		</description>
@@ -168,7 +168,7 @@
 		</rules>
 	</element>
 	
-	<element name="Sharp Mind" type="Racial Trait" source="Humblewood campaign settings" id="ID_HWCS_RACIAL_TRAIT_SHARP_MIND">
+	<element name="Sharp Mind" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_SHARP_MIND">
 		<description>
 			<p>You learn one additional language of your choice, gain proficiency in a tool of your choice, and are able to accurately recall with perfect clarity anything you have seen or heard within the past month.</p>
 		</description>
