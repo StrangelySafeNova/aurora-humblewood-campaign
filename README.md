@@ -45,7 +45,10 @@ Racial traits:
 - Learned  
 - Appraising Eye  
 
-Languages:  
+Languages (all):  
 - Birdfolk  
+- Cervan  
 - Hedge  
 - Jerbeen  
+- Mapach  
+- Vulpin  

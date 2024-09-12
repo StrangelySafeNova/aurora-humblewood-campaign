@@ -11,23 +11,33 @@
 	<element name="Birdfolk" type="Language" source="Humblewood Campaign Setting" id="ID_HWCS_LANGUAGE_BIRDFOLK">
 		<supports>Standard</supports>
 		<description>
-			<p>Typically spoken by Birdfolks.</p>
+			<p>Birdfolk is a language of clicks, caws, and whistles. Though primarily oral, a system for writing Birdfolk in pictograms was developed long before the founding of Alderheart and has since transformed into a set of abstract glyphs representing different sounds. Birdfolk can be written quickly with a quill, or scratched easily with a claw, and has been widely adopted throughout the Wood.</p>
 		</description>
 		<setters>
 			<set name="standard">true</set>
-			<set name="speakers">Birdfolks</set>
+			<set name="speakers">Birdfolks, Humblefolk</set>
 			<set name="script">Birdfolk</set>
 		</setters>
+    <element name="Cervan" type="Language" source="Humblewood Campaign Setting" id="ID_HWCS_LANGUAGE_CERVAN">
+		<supports>Standard</supports>
+		<description>
+			<p>Cervan is a complex language with no written script. It is seen as disrespectful to try and transcribe it using Birdfolk characters. Much of cervan history is preserved by village elders and passed down orally through the generations as stories, songs, and sayings. The adage, “What is essential to learn lies in the teaching”, is often invoked to illustrate this point.</p>
+		</description>
+		<setters>
+			<set name="standard">true</set>
+			<set name="speakers">Cervans</set>
+		</setters>
+	</element>	
 	</element>
     <element name="Hedge" type="Language" source="Humblewood Campaign Setting" id="ID_HWCS_LANGUAGE_HEDGE">
 		<supports>Standard</supports>
 		<description>
-			<p>Typically spoken by Hedges.</p>
+			<p>Hedge is a language meant to be spoken softly. It confounds many who try to learn it due to the prevalence of passive voice and the deferential manners built into conversation. These are meant to ensure that everyone’s feelings are heard and respected. It is written using a variation of Sylvan script.</p>
 		</description>
 		<setters>
 			<set name="standard">true</set>
 			<set name="speakers">Hedges</set>
-			<set name="script">Hedge</set>
+			<set name="script">Sylvan</set>
 		</setters>
 	</element>	
     <element name="Jerbeen" type="Language" source="Humblewood Campaign Setting" id="ID_HWCS_LANGUAGE_JERBEEN">
@@ -38,7 +48,29 @@
 		<setters>
 			<set name="standard">true</set>
 			<set name="speakers">Jerbeens</set>
-			<set name="script">Jerbeen</set>
+			<set name="script">Birdfolk</set>
+		</setters>
+	</element>	
+    <element name="Mapach" type="Language" source="Humblewood Campaign Setting" id="ID_HWCS_LANGUAGE_MAPACH">
+		<supports>Standard</supports>
+		<description>
+			<p>Mapach is a very technically dense language that often incorporates rough equations and estimations of physical properties in normal conversation. Awareness of one’s surroundings is key to survival, and the Mapach language emphasizes this. Mapach uses its own script of glyphs made of various lines, dashes, and dots.</p>
+		</description>
+		<setters>
+			<set name="standard">true</set>
+			<set name="speakers">Mapachs</set>
+			<set name="script">Mapach</set>
+		</setters>
+	</element>	
+    <element name="Vulpin" type="Language" source="Humblewood Campaign Setting" id="ID_HWCS_LANGUAGE_VULPIN">
+		<supports>Standard</supports>
+		<description>
+			<p>Vulpin is a language of growls, snarls, and yips. It is written in its own flowing cursive script. Speakers are taught to switch between low and high class versions of Vulpin depending on the context. The biggest stumbling block for new speakers is learning when to use which form.</p>
+		</description>
+		<setters>
+			<set name="standard">true</set>
+			<set name="speakers">Vulpins</set>
+			<set name="script">Vulpin</set>
 		</setters>
 	</element>	
 </elements>
