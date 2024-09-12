@@ -67,16 +67,16 @@
 			<p>You have a burrowing speed of 15 feet. You are capable of burrowing through soil, but are unable to dig through anything more substantial with just your clawed hands.</p>
 		</description>
 		<sheet>
-			<description>Burrowing speed of 15 ft, unable to dig through hard terrain.</description>
+			<description>You have a burrowing speed of 15 feet. You are capable of burrowing through soil, but are unable to dig through anything more substantial with just your clawed hands.</description>
 		</sheet>
 	</element>
 
 	<element name="Spiny Quills" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_SPINY_QUILLS">
 		<description>
-			<p>The backs of hedges are covered with spiny quills, which makes it impossible for hedges to wear armor. These quills provide exceptional protection, there- fore you have a base armor class of 14 + your Dexterity modifier. Even though you can’t wear armor, you can still benefit from the armor class bonus provided by shields so long as you are proficient with them.</p>
+			<p>The backs of hedges are covered with spiny quills, which makes it impossible for hedges to wear armor. These quills provide exceptional protection, therefore you have a base armor class of 14 + your Dexterity modifier. Even though you can’t wear armor, you can still benefit from the armor class bonus provided by shields so long as you are proficient with them.</p>
 		</description>
 		<sheet>
-			<description>Unable to use armor, can use shields. AC of 14 + Dex modifier.</description>
+			<description>The backs of hedges are covered with spiny quills, which makes it impossible for hedges to wear armor. These quills provide exceptional protection, therefore you have a base armor class of 14 + your Dexterity modifier. Even though you can’t wear armor, you can still benefit from the armor class bonus provided by shields so long as you are proficient with them.</description>
 		</sheet>
 		<rules>
 			<stat name='ac:spiny quills hedge:base' value='14' />
@@ -93,7 +93,7 @@
 			<p class='indent'>Any creature that misses you with a melee attack while you are curled up takes 2d4 points of piercing damage from your sharp quills. If a creature hits you while you are curled up, you are knocked prone in your space at the end of the turn. You may uncurl yourself at any point during your turn.</p>
 		</description>
 		<sheet>
-			<description>For an action: curl up, you cannot move, attack, or cast spells with somatic components. Your AC becomes 19 (unaffected by Dex), but you can still use shields. If attacked and missed: the enemy take 2d6 piercing damage. If attacked and hit: become prone at the end of the turn. You can uncurl at any point on your turn</description>
+			<description>You can use your action to curl up, exposing attackers to a wall of your toughened quills. While curled up you cannot move, attack, or cast spells with somatic components, and your base armor class becomes 19. You cannot benefit from any Dexterity bonus to armor class while curled up, but you can still use shields. Any creature that misses you with a melee attack while you are curled up takes 2d4 points of piercing damage from your sharp quills. If a creature hits you while you are curled up, you are knocked prone in your space at the end of the turn. You may uncurl yourself at any point during your turn.</description>
 		</sheet>
 	</element>
 	
@@ -102,7 +102,7 @@
 			<p>You have a deep connection to the magic of the Wood. You know the druidcraft cantrip. Additionally, you can cast animal messenger as a 2nd level spell once with this trait, and regain the ability to do so after a short or long rest. Charisma is your spellcasting ability for these spells.</p>
 		</description>
 		<sheet>
-			<description>You know the druidcraft cantrip and you can cast animal messenger as a 2nd level spell once per short or long rest. Use charisma for spellcasting ability.</description>
+			<description>You have a deep connection to the magic of the Wood. You know the druidcraft cantrip. Additionally, you can cast animal messenger as a 2nd level spell once with this trait, and regain the ability to do so after a short or long rest. Charisma is your spellcasting ability for these spells.</description>
 		</sheet>
 		<rules>
 			<grant type="Spell" id='ID_PHB_SPELL_DRUIDCRAFT' />
@@ -114,7 +114,7 @@
 			<p>Through sounds and gestures, you can communicate simple ideas with creatures of the beast subtype that represent insects, spiders, worms, and other creepy crawlies, regardless of their size.</p>
 		</description>
 		<sheet>
-			<description>You can speak with creatures of the beast subtype that represent insects, spiders, worms, and otherr crawlies, regardless of size.</description>
+			<description>Through sounds and gestures, you can communicate simple ideas with creatures of the beast subtype that represent insects, spiders, worms, and other creepy crawlies, regardless of their size.</description>
 		</sheet>
 	</element>
 
