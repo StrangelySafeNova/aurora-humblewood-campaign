@@ -19,11 +19,12 @@ In progress:
 
 Races:  
 - Strig  
+- Gallus  
 
 ---
 ---  
 
-Done;  
+Done:  
 
 Races:  
 - Hedge  
