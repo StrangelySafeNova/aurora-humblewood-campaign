@@ -1,4 +1,4 @@
-# repositoryname
+# aurora-humblewood-campaign
 additional content to extend [Aurora](https://aurorabuilder.com/), by StrangelySafeNova
 
 index url: https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/StrangelySafeNova.index
