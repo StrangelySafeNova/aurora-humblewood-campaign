@@ -23,6 +23,8 @@
 			<p>Hedges need special consideration when wearing clothes, and favor loose tunics, baggy trousers, flowing robes, and other clothes which fit easily over their quills. When not actively flared out, these tough quills naturally flatten, becoming smooth to the touch. However, if suddenly frightened, their quills reflexively flare out and stiffen, an accident which can ruin a hedge’s clothing.</p>
 			<p>Adventuring clothes made specifically for hedges are available in nearly every major city in Humblewood, and tailors throughout the Wood are familiar with making alterations to suit a hedge’s needs.</p>
 			<h4>Hedge Traits</h4>
+			<!-- empty p tag for aesthetics -->
+			<p></p>
 			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Charisma score increases by 2, and your Wisdom score increases by 1.</p>
 			<p class="indent"><strong><em>Age</em></strong> Hedges take longer to mature than most other races, reaching adulthood around 20 years. They also live for a long time, with many reaching 120 years or more.</p>
 			<p class="indent"><strong><em>Alignment</em></strong>  Hedges are compassionate, empathetic, and diplomatic, tending towards good alignments. They also favor neutral alignments, as hedges have a great respect for the balance of nature.</p>

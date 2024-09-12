@@ -18,6 +18,8 @@
 			<h4>Too Smart</h4>
 			<p>Corvums are commonly accepted, sometimes begrudgingly, to be among the smartest of birdfolk. Keen observers, they trade in information the way others trade goods. They are hungry for knowledge and leverage it to further their goals whenever possible. Their undeniable skill in matters of logistics and planning make them valuable to councils and powerful individuals alike.</p>
 			<h4>Corvum Traits</h4>
+			<!-- empty p tag for aesthetics -->
+			<p></p>
 			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Intelligence score increases by 2.</p>
 			<p class="indent"><strong><em>Age.</em></strong> Corvums reach adulthood at around 18 years. They live slightly shorter lives than other birdfolk, approximately 70 years.</p>
 			<p class="indent"><strong><em>Alignment.</em></strong>  Shrewd and capable, corvums prefer moral flexibility and are more likely to be neutral than either good or evil. Nonetheless, corvums see the benefit of rules, even if many attempt to turn them to their own advantage. Because of this they favor lawful alignments.</p>
