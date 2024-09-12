@@ -57,25 +57,25 @@
 	<!-- skills -->
 	<element name="Glide" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_GLIDE">
 		<description>
-			<p> Using your feathered arms, you can slow your fall, and glide short distances. When falling you can use your reaction to spread your arms, stiffen your wing feathers, and slow your descent. While doing so, you continue to fall gently at a speed of 60 feet per round, taking no fall damage when you land. If you would fall at least 10 feet in this way, you may fly up to your movement speed in one direction you choose, although you cannot choose to move upwards, landing in the space you finish your movement. You cannot glide while carrying heavy weapons or wielding a shield (though you may drop any held items as part of your reaction to spread your arms). You cannot glide while wearing heavy armor, or if you are encumbered.</p>
+			<p>Using your feathered arms, you can slow your fall, and glide short distances. When falling you can use your reaction to spread your arms, stiffen your wing feathers, and slow your descent. While doing so, you continue to fall gently at a speed of 60 feet per round, taking no fall damage when you land. If you would fall at least 10 feet in this way, you may fly up to your movement speed in one direction you choose, although you cannot choose to move upwards, landing in the space you finish your movement. You cannot glide while carrying heavy weapons or wielding a shield (though you may drop any held items as part of your reaction to spread your arms). You cannot glide while wearing heavy armor, or if you are encumbered.</p>
 		</description>
 		<sheet>
-			<description> Using your feathered arms, you can slow your fall, and glide short distances. When falling you can use your reaction to spread your arms, stiffen your wing feathers, and slow your descent. While doing so, you continue to fall gently at a speed of 60 feet per round, taking no fall damage when you land. If you would fall at least 10 feet in this way, you may fly up to your movement speed in one direction you choose, although you cannot choose to move upwards, landing in the space you finish your movement. You cannot glide while carrying heavy weapons or wielding a shield (though you may drop any held items as part of your reaction to spread your arms). You cannot glide while wearing heavy armor, or if you are encumbered.</description>
+			<description>Using your feathered arms, you can slow your fall, and glide short distances. When falling you can use your reaction to spread your arms, stiffen your wing feathers, and slow your descent. While doing so, you continue to fall gently at a speed of 60 feet per round, taking no fall damage when you land. If you would fall at least 10 feet in this way, you may fly up to your movement speed in one direction you choose, although you cannot choose to move upwards, landing in the space you finish your movement. You cannot glide while carrying heavy weapons or wielding a shield (though you may drop any held items as part of your reaction to spread your arms). You cannot glide while wearing heavy armor, or if you are encumbered.</description>
 		</sheet>
 	</element>
 	
 	<element name="Talons" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_TALONS">
 		<description>
-			<p> Your sharp claws aid you in unarmed combat and while climbing. Your damage for an unarmed strike is 1d4 piercing damage. Additionally, you have advantage on Strength (Athletics) checks made to climb any surface your talons could reasonably grip.</p>
+			<p>Your sharp claws aid you in unarmed combat and while climbing. Your damage for an unarmed strike is 1d4 piercing damage. Additionally, you have advantage on Strength (Athletics) checks made to climb any surface your talons could reasonably grip.</p>
 		</description>
 		<sheet>
-			<description> Your sharp claws aid you in unarmed combat and while climbing. Your damage for an unarmed strike is 1d4 piercing damage. Additionally, you have advantage on Strength (Athletics) checks made to climb any surface your talons could reasonably grip.</description>
+			<description>Your sharp claws aid you in unarmed combat and while climbing. Your damage for an unarmed strike is 1d4 piercing damage. Additionally, you have advantage on Strength (Athletics) checks made to climb any surface your talons could reasonably grip.</description>
 		</sheet>
 	</element>
 	
 	<element name="Learned" type="Racial Traits" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_LEARNED">
 		<description>
-			<p> You gain proficiency in one of the following skills: Arcana, History, Nature, or Religion.</p>
+			<p>You gain proficiency in one of the following skills: Arcana, History, Nature, or Religion.</p>
 		</description>
 		<sheet display="false" />
 		<rules>
@@ -85,16 +85,16 @@
 	
 	<element name="Appraising Eye" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_APPRAISING_EYE">
 		<description>
-			<p> You have an almost supernatural ability to appraise objects. By spending an action examining any object, you can determine any magical properties the item has, how they might be used or activated, as well as a fair estimation of market price. Using this skill strains the eyes, and you must complete a long or short rest before you can use it again.</p>
+			<p>You have an almost supernatural ability to appraise objects. By spending an action examining any object, you can determine any magical properties the item has, how they might be used or activated, as well as a fair estimation of market price. Using this skill strains the eyes, and you must complete a long or short rest before you can use it again.</p>
 		</description>
 		<sheet>
-			<description> You have an almost supernatural ability to appraise objects. By spending an action examining any object, you can determine any magical properties the item has, how they might be used or activated, as well as a fair estimation of market price. Using this skill strains the eyes, and you must complete a long or short rest before you can use it again.</description>
+			<description>You have an almost supernatural ability to appraise objects. By spending an action examining any object, you can determine any magical properties the item has, how they might be used or activated, as well as a fair estimation of market price. Using this skill strains the eyes, and you must complete a long or short rest before you can use it again.</description>
 		</sheet>
 	</element>
 	
 	<element name="Corvum Subrace" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_CORVUM_SUBRACE">
 		<description>
-			<p> There are two main subraces of corvum: dusk and kindled. Choose one of these subraces.</p>
+			<p>There are two main subraces of corvum: dusk and kindled. Choose one of these subraces.</p>
 		</description>
 		<sheet display="false" />
 		<rules>
@@ -143,9 +143,9 @@
 		<supports>Corvum</supports>
 		<description>
 			<p>As a kindled corvum, you know implicitly that you are the smartest in the room. Your ability to utilize your knowledge to your advantage, along with your deep understanding of others motivations, makes you a formidable opponent.</p>
-			<p class="indent"><strong><em>Ability Score Increase.</em></strong>Your Charisma score increases by 1.</p>
-			<p class="indent"><strong><em>Convincing.</em></strong>Kindled corvums have a way with words, and are accomplished at saying what someone wants or needs to hear. You have proficiency in either the Deception or Persuasion skill. Additionally, you have advantage on all Charisma checks made to convince someone of your exceptional knowledge on any topic related to the skill you selected with your learned trait (Arcana, History, Nature, or Religion).</p>
-			<p class="indent"><strong><em>Sharp Mind.</em></strong>You learn one additional language of your choice, gain proficiency in a tool of your choice, and are able to accurately recall with perfect clarity anything you have seen or heard within the past month.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Charisma score increases by 1.</p>
+			<p class="indent"><strong><em>Convincing.</em></strong> Kindled corvums have a way with words, and are accomplished at saying what someone wants or needs to hear. You have proficiency in either the Deception or Persuasion skill. Additionally, you have advantage on all Charisma checks made to convince someone of your exceptional knowledge on any topic related to the skill you selected with your learned trait (Arcana, History, Nature, or Religion).</p>
+			<p class="indent"><strong><em>Sharp Mind.</em></strong> You learn one additional language of your choice, gain proficiency in a tool of your choice, and are able to accurately recall with perfect clarity anything you have seen or heard within the past month.</p>
 		</description>
 		<sheet display="false" />
 		<rules>
