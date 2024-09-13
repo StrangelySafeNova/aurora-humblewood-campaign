@@ -80,7 +80,7 @@
 		<description>
 			<p>You have proficiency in simple weapons.</p>
 		</description>
-		<sheet display="false">
+		<sheet display="false" />
 		<rules>
 			<grant type="Proficiency" id="ID_PROFICIENCY_WEARPON_PROFICIENCY_SIMPLE_WEAPONS" />
 		</rules>
@@ -163,7 +163,7 @@
 		<description>
 			<p>You have proficiency in the Nature skill.</p>
 		</description>
-		<sheet display="false">
+		<sheet display="false" />
 		<rules>
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_NATURE">
 		</rules>
