@@ -174,7 +174,9 @@
 		<sheet>
 			<description>You are able to accurately recall with perfect clarity anything you have seen or heard within the past month.</description>
 		</sheet>
-		<select type="Proficiency" name="Tool Proficiency (Sharp Mind)" supports="Tool" />
-		<select type="Language" name="Language (Sharp Mind)" supports="Standard||Exotic" />
+		<rules>
+			<select type="Proficiency" name="Tool Proficiency (Sharp Mind)" supports="Tool" />
+			<select type="Language" name="Language (Sharp Mind)" supports="Standard||Exotic" />
+		</rules>
 	</element>
 </elements>
