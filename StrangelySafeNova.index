@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <index>
 	<info>
-		<name>Your Content</name>
+		<name>Humblewood Campaign Setting</name>
 		<update version="1.0.0">
 			<file name="StrangelySafeNova.index" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/StrangelySafeNova.index" />
 		</update>
@@ -9,9 +9,14 @@
 	<files>
 		<file name="source.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/source.xml" />
 		
+		<!-- races -->
+		<file name="race-corvum.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/races/race-corvum.xml" />
+		<file name="race-gallus.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/races/race-gallus.xml" />
 		<file name="race-hedge.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/races/race-hedge.xml" />
 		<file name="race-jerbeen.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/races/race-jerbeen.xml" />
-		<file name="race-corvum.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/races/race-corvum.xml" />
+		<file name="race-luma.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/races/race-luma.xml" />
+
+		<!-- miscellaneous -->
 		<file name="languages.xml" url="https://raw.githubusercontent.com/StrangelySafeNova/aurora-humblewood-campaign/master/humblewood-campaign-setting/languages.xml" />
 	</files>
 </index>

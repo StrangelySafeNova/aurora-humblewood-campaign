@@ -29,6 +29,8 @@ Races:
 - Hedge  
 - Jerbeen  
 - Corvum  
+- Gallus
+- Luma  
 
 Racial traits:
 - Natural Burrowers  
@@ -44,6 +46,20 @@ Racial traits:
 - Talons  
 - Learned  
 - Appraising Eye  
+- Wing Flap  
+- Communal  
+- Militia Training  
+- Of the People  
+- Inspiring  
+- Understanding  
+- One With the Wood  
+- SeedSpeech  
+- Touched  
+- Fated  
+- Hard to Read  
+- Resilience  
+- Center of Attention  
+- Songbird  
 
 Languages (all):  
 - Birdfolk  
