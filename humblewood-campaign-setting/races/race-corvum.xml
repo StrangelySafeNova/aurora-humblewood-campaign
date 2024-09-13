@@ -155,7 +155,7 @@
 		</rules>
 	</element>
 	
-	<element name="Convincing" type="Racial Trait" source="Humblewood Campaign Settings" id="ID_HWCS_RACIAL_TRAIT_CONVINCING">
+	<element name="Convincing" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_CONVINCING">
 		<description>
 			<p>Kindled corvums have a way with words, and are accomplished at saying what someone wants or needs to hear. You have proficiency in either the Deception or Persuasion skill. Additionally, you have advantage on all Charisma checks made to convince someone of your exceptional knowledge on any topic related to the skill you selected with your learned trait (Arcana, History, Nature, or Religion).</p>
 		</description>
