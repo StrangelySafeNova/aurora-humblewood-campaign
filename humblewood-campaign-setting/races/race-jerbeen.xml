@@ -17,6 +17,8 @@
 			<h4>Community First</h4>
 			<p>The communal slant of jerbeens stems from more than just their love of good company: jerbeen are kind and considerate creatures, known for their joviality and charm. Being small and not particularly strong gives them a perspective that allows them to easily empathize with others, though not all jerbeens share this compassionate outlook. Some respond to the dangers outside their community by becoming insular and fearing all non-jerbeens. Jerbeens value privacy, but true isolation from friends, families, or loved ones is considered to be the worst possible fate a jerbeen could suffer.</p>
 			<h4>Jerbeen Traits</h4>
+			<!-- empty p tag for aesthetics -->
+			<p></p>
 			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Dexterity increases by 2, and your Charisma score increases by 1.</p>
 			<p class="indent"><strong><em>Age.</em></strong> Jerbeens grow quickly, reaching maturity around 5 years. They are the shortest lived of all the humblefolk races, living just about 40 years.</p>
 			<p class="indent"><strong><em>Alignment.</em></strong> Being small and facing many threats in the world, jerbeens are sensitive to the feelings of others, and tend towards good alignments. They also lean more towards lawful alignments due to their co-operative nature.</p>
