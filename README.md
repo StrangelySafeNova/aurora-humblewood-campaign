@@ -19,7 +19,6 @@ In progress:
 
 Races:  
 - Strig  
-- Gallus  
 
 ---
 ---  
