@@ -165,7 +165,7 @@
 		</description>
 		<sheet display="false" />
 		<rules>
-			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_NATURE">
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_NATURE" />
 		</rules>
 	</element>
 	
