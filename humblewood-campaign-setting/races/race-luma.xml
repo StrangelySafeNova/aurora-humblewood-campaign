@@ -157,7 +157,7 @@
 	
 	<element name="Songbird" type="Racial Trait" source="Humblewood Campaign Setting" id="ID_HWCS_RACIAL_TRAIT_SONGBIRD">
 		<description>
-			<p>When you perform, you can demonstrate the innate and mystical power of your Charisma. You may cast the charm person spell once per long rest. This spell does not require any somatic components to cast. Charisma is your spellcasting ability for this spell<./p>
+			<p>When you perform, you can demonstrate the innate and mystical power of your Charisma. You may cast the charm person spell once per long rest. This spell does not require any somatic components to cast. Charisma is your spellcasting ability for this spell</p>
 		</description>
 		<sheet>
 			<description>When you perform, you can demonstrate the innate and mystical power of your Charisma. You may cast the charm person spell once per long rest. This spell does not require any somatic components to cast. Charisma is your spellcasting ability for this spell.</description>
