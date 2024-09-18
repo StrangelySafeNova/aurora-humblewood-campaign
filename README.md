@@ -1,3 +1,7 @@
+PROJECT ABORTED
+It's not in a working state, and will never be, because [this gentlemen](https://github.com/duncathan/aurora-elements) has done, in all honesty, a better job.
+
+
 # aurora-humblewood-campaign
 additional content to extend [Aurora](https://aurorabuilder.com/), by StrangelySafeNova
 
